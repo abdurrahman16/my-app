@@ -9,3 +9,13 @@
     color: blue;
     font-weight: 400;
 }
+.main-button{
+    background-color: rgb(245, 94, 35);
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    
+}
